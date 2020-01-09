@@ -1,9 +1,9 @@
 ---
 layout: default
-title: トップページ
+title: toppage
 ---
 
-# トップページです
+# toppage
 
 * hoge
 * huga
