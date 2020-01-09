@@ -1,9 +1,8 @@
 ---
 layout: default
-title: toppage
+title: What do you hack
 ---
 
-# toppage
+# What do you hack
 
-* hoge
-* huga
+This site is my Computer Technology memo. Also I'm writing in English to study English. 
