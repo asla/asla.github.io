@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: toppage
 title: What do you hack
 ---
 
